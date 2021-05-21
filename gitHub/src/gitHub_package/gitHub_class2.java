@@ -6,6 +6,7 @@ public class gitHub_class2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Github2 added");
+		System.out.println("Github2 update");
 	}
 
 }
